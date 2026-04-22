@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
+.env
+venv/
+.venv/
+dist/
+
+# Firebase — NEVER commit credentials
+firebase-service-account.json
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.env.local
+
+# OS
+.DS_Store
+Thumbs.db
