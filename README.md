@@ -13,7 +13,7 @@ A deepfake video detection app with a 90s GUI aesthetic. Built with:
 ## Project Structure
 
 ```
-tfd/
+
 ├── backend/
 │   ├── main.py                     # FastAPI app
 │   ├── requirements.txt
